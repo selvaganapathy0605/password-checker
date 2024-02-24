@@ -1,0 +1,9 @@
+This a is password word checker project.
+
+This Project is created using Python language.No Framework.
+
+#ABOUT
+- This code take console input(Your Password) from user.
+- And,this tells how your password good or bad.
+- If your password was good,It shows "GOOD PASSWORD".
+- Else Your Password was bad,It shows "PASSWORD WAS NOT GOOD" and it shows the hacked rate of input password.
